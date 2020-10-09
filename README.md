@@ -2,9 +2,7 @@
 
 用于存放小熊派相关实验例程，包括之前已经发表在微信公众号上的文章。
 
-详细Demo文章讲解可扫码关注以下微信公众号：嵌入式云IOT技术圈
-
-![image-20200923103225475](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200923103225475.png)
+详细Demo文章讲解可关注微信公众号：嵌入式云IOT技术圈
 
 #### 二、例程说明
 
